@@ -9,7 +9,7 @@ const INFO = {
 	socials: {
 		twitter: "https://twitter.com/itsYashuC",
 		github: "https://github.com/yashrajxchopra",
-		linkedin: "https://www.linkedin.com/in/yashrajxchopra/",
+		linkedin: "https://www.linkedin.com/in/yashraj-chopra-637550264",
 	},
 
 	homepage: {
@@ -47,7 +47,7 @@ const INFO = {
 			linkText1: "GitHub",
 			link1: "https://github.com/yashrajxchopra",
             linkText2: "Live",
-			link2: "https://eddie-oconnor.com/"
+			link2: ""
 		},
 
 		{
